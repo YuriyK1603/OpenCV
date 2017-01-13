@@ -1,0 +1,20 @@
+﻿Построение начато 13.01.2017 5:27:25.
+     1>Проект "C:\Users\Юрий\Documents\Visual Studio 2010\Projects\OpenCV\OpenCV\OpenCV.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\OpenCV.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       ManifestResourceCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+       Manifest:
+         Для всех выходных данных обновления не требуется.
+       FinalizeBuildStatus:
+         Файл "Debug\OpenCV.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\OpenCV.lastbuildstate".
+     1>Построение проекта "C:\Users\Юрий\Documents\Visual Studio 2010\Projects\OpenCV\OpenCV\OpenCV.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.14
